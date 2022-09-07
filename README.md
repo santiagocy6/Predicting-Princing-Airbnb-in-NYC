@@ -1,1 +1,1 @@
-# Predicting-Princing-Airbnb-in-NYC
+# Predicting-Pricing-Airbnb-in-NYC
